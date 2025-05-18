@@ -1,0 +1,3 @@
+Real-image.zip filter=lfs diff=lfs merge=lfs -text
+Synthetic-image_1.zip filter=lfs diff=lfs merge=lfs -text
+Synthetic-image_2.zip filter=lfs diff=lfs merge=lfs -text
